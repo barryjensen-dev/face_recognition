@@ -11,21 +11,6 @@ This is a basic face recognition application implemented in Python using the `fa
 * Draws bounding boxes around recognized faces and labels them with names.
 * Provides a simple HTML output to display the results.
 
-## Project Structure
-
-
-face_recognition/
-├── known_person_1.jpg
-├── known_person_2.jpg
-├── known_person_3.jpg
-├── unknown_person.jpg
-└── app.py
-
-
-* `known_person_1.jpg`, `known_person_2.jpg`, `known_person_3.jpg`: Images of known people to be recognized.
-* `unknown_person.jpg`: Image with the face(s) to be identified.
-* `face_recognition_app.py`: Python script containing the face recognition code.
-
 ## Requirements
 
 * Python 3.6 or higher
