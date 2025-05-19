@@ -26,7 +26,7 @@ This is a basic face recognition application implemented in Python using the `fa
 2.  **Install the required libraries:**
 
     ```bash
-    pip install face_recognition numpy Pillow
+    pip install -r requirements.txt
     ```
 
     If you encounter issues, you might need to install `dlib` separately.  Refer to the `face_recognition` installation instructions for your operating system.  You might also need to use `pip3` instead of `pip`.  If you get a "Permission denied" error, try using `sudo pip install` on macOS/Linux or running your command prompt as an administrator on Windows.
