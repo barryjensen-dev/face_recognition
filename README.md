@@ -80,12 +80,12 @@ The application generates an HTML page that looks similar to this:
   </body>
 </html>
 
-## Notes
+Notes
 This is a basic implementation and may not be as robust as production-level face recognition systems.
 
 Accuracy can vary depending on image quality, lighting conditions, and pose.
 
 For a real-world application, you would need to implement a database to store known face encodings and a more sophisticated user interface.
 
-## Disclaimer
+Disclaimer
 This code is for educational purposes only. Use responsibly and be mindful of privacy considerations when dealing with facial recognition
